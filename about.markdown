@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![σχήμα]({{ site.url }}/assets/arch2.jpg) 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Through this project, our students hope to gain the ability to collaborate and communicate with their classmates, the ability to think critically and to be able to walk around their city and get to know the writers in their area. Our specific goals are for our students to learn to orient themselves in the city, to walk around observing the urban environment, to read local community writers, and to learn information about their personal lives.
 
 
-[jekyll-organization]: https://github.com/jekyll

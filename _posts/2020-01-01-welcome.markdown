@@ -6,6 +6,4 @@ categories: jekyll update
 ---
 The purpose of the project is to create a structure that will connect Architecture with Literature. After selecting with the students distinguished writers of the local community we will find the buildings in which they lived and integrate them into a single structure, gathering information that links the building and the man, highlighting unknown aspects of his life. Finally, we want to create an imaginary route, perhaps on a google map, for the purpose of taking a literary walk that will connect architecture with literature.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![σχήμα]({{ site.url }}/assets/arch.jpg) 
