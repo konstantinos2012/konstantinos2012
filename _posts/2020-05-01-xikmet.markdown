@@ -5,7 +5,7 @@ date:   2020-01-05 13:27:46 +0200
 categories: jekyll update
 ---
 
-[Biograph](http://bit.ly/2QOJuDj) 
+[Βιογραφικό](http://bit.ly/2QOJuDj) 
 
 [Αν η μισή μου καρδιά](https://www.youtube.com/watch?v=KXy9dyuDWvI)
 
