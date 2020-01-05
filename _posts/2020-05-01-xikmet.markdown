@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Xikmet"
+date:   2020-01-05 13:27:46 +0200
+categories: jekyll update
+---
+
+[Biograph](http://bit.ly/2QOJuDj) 
+
+[Αν η μισή μου καρδιά](https://www.youtube.com/watch?v=KXy9dyuDWvI)
+
+[Μικρόκοσμος](https://www.youtube.com/watch?v=O5JQI7j91ts)
+
+[Η πιο όμορφη θάλασσα](https://www.youtube.com/watch?v=yV3qgUWJvhw)
+
+[Αν με τη μεσολάβηση](https://www.youtube.com/watch?v=YQvFUFCFZSE)
+
+[Απερίγραπτη λένε](https://www.youtube.com/watch?v=_Zg7xAVfiPQ)
+
+[Για τη ζωή](https://www.youtube.com/watch?v=7YcbDPiSOfY)
+
+[Μονάκριβή μου](https://www.youtube.com/watch?v=j6CfIspYqXU)
+
+[Όπως ο Κερέμ](https://www.youtube.com/watch?v=YvC7v7cVuAQ)
+
+[Στηθάγχη](https://www.youtube.com/watch?v=lbuiwuyQjcA)
+
+[Το δίχτυ](https://www.youtube.com/watch?v=cF2B1eBwl00)
+
+[Λίγα γαρούφαλλα](https://www.youtube.com/watch?v=F20XNkq7nWM)
+
+![σχήμα]({{ site.url }}/assets/nazim.png) 
