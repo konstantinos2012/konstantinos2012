@@ -25,8 +25,34 @@ categories: jekyll update
 
 [Στηθάγχη](https://www.youtube.com/watch?v=lbuiwuyQjcA)
 
-[Το δίχτυ](https://www.youtube.com/watch?v=cF2B1eBwl00)
+[Το δίχτυ](https://www.youtube.com/watch?v=MC7dPpTzY3k)
 
 [Λίγα γαρούφαλλα](https://www.youtube.com/watch?v=F20XNkq7nWM)
+
+[Χιονίζει μέσα στη νύχτα](https://www.youtube.com/watch?v=8FmBIoMLgvo)
+
+[Χιονίζει μέσα στη νύχτα](https://www.youtube.com/watch?v=HiW4JMJ1IEI)
+
+[Ταξιδεύοντας](https://www.youtube.com/watch?v=0Nq1pc9Cg9s)
+
+[Χιροσίμα](https://www.youtube.com/watch?v=QgLXCVteBmk)
+
+[Φοβούνται τα τραγούδια μας](https://www.youtube.com/watch?v=GmVQSDjHpNc)
+
+[Ύμνος στη ζωή](https://www.youtube.com/watch?v=nXsGe_vwp_g)
+
+[Το έπος του Σεϊχη Μπεντρεντίν Ι](https://www.youtube.com/watch?v=XXweriZyDUY)
+
+[Το έπος του Σεΐχη Μπεντρεντίν II](https://www.youtube.com/watch?v=VUp-_PQRXts)
+
+[Όμορφο που 'ναι να σε συλλογιέμαι](https://www.youtube.com/watch?v=xHybqTaTpLI)
+
+[Ταξιδεύοντας](https://www.youtube.com/watch?v=hde4sliKC6I)
+
+[Ο άνεμος κυλάει](https://www.youtube.com/watch?v=m1Xyl_dB7kg)
+
+[Νανούρισμα](https://www.youtube.com/watch?v=8BXiPUwZ0Ow)
+
+[Να μη λυγάς](https://www.youtube.com/watch?v=3F_OmMribYo)
 
 ![σχήμα]({{ site.url }}/assets/nazim.png) 
