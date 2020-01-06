@@ -5,54 +5,59 @@ date:   2020-01-05 13:27:46 +0200
 categories: jekyll update
 ---
 
-[Βιογραφικό](http://bit.ly/2QOJuDj) 
 
-[Αν η μισή μου καρδιά](https://www.youtube.com/watch?v=KXy9dyuDWvI)
+<a target="_blank" rel="noopener noreferrer" href="http://bit.ly/2QOJuDj">Βιογραφικό</a>
 
-[Μικρόκοσμος](https://www.youtube.com/watch?v=O5JQI7j91ts)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=O5JQI7j91ts">Μικρόκοσμος</a>
 
-[Η πιο όμορφη θάλασσα](https://www.youtube.com/watch?v=yV3qgUWJvhw)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=yV3qgUWJvhw">Η πιο όμορφη θάλασσα</a>
 
-[Αν με τη μεσολάβηση](https://www.youtube.com/watch?v=YQvFUFCFZSE)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=YQvFUFCFZSE">Αν με τη μεσολάβηση</a>
 
-[Απερίγραπτη λένε](https://www.youtube.com/watch?v=_Zg7xAVfiPQ)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=_Zg7xAVfiPQ">Απερίγραπτη λένε</a>
 
-[Για τη ζωή](https://www.youtube.com/watch?v=7YcbDPiSOfY)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=7YcbDPiSOfY">Για τη ζωή</a>
 
-[Μονάκριβή μου](https://www.youtube.com/watch?v=j6CfIspYqXU)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=j6CfIspYqXU">Μονάκριβή μου</a>
 
-[Όπως ο Κερέμ](https://www.youtube.com/watch?v=YvC7v7cVuAQ)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=YvC7v7cVuAQ">Όπως ο Κερέμ</a>
 
-[Στηθάγχη](https://www.youtube.com/watch?v=lbuiwuyQjcA)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=lbuiwuyQjcA">Στηθάγχη</a>
 
-[Το δίχτυ](https://www.youtube.com/watch?v=MC7dPpTzY3k)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=MC7dPpTzY3k">Το δίχτυ</a>
 
-[Λίγα γαρούφαλλα](https://www.youtube.com/watch?v=F20XNkq7nWM)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=F20XNkq7nWM">Λίγα γαρούφαλλα</a>
 
-[Χιονίζει μέσα στη νύχτα](https://www.youtube.com/watch?v=8FmBIoMLgvo)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=8FmBIoMLgvo">Χιονίζει μέσα στη νύχτα</a>
 
-[Χιονίζει μέσα στη νύχτα](https://www.youtube.com/watch?v=HiW4JMJ1IEI)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=0Nq1pc9Cg9s">Ταξιδεύοντας</a>
 
-[Ταξιδεύοντας](https://www.youtube.com/watch?v=0Nq1pc9Cg9s)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=QgLXCVteBmk">Χιροσίμα</a>
 
-[Χιροσίμα](https://www.youtube.com/watch?v=QgLXCVteBmk)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=GmVQSDjHpNc">Φοβούνται τα τραγούδια μας</a>
 
-[Φοβούνται τα τραγούδια μας](https://www.youtube.com/watch?v=GmVQSDjHpNc)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=nXsGe_vwp_g">Ύμνος στη ζωή</a>
 
-[Ύμνος στη ζωή](https://www.youtube.com/watch?v=nXsGe_vwp_g)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=XXweriZyDUY">Το έπος του Σεϊχη Μπεντρεντίν Ι</a>
 
-[Το έπος του Σεϊχη Μπεντρεντίν Ι](https://www.youtube.com/watch?v=XXweriZyDUY)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=VUp-_PQRXts">Το έπος του Σεΐχη Μπεντρεντίν II</a>
 
-[Το έπος του Σεΐχη Μπεντρεντίν II](https://www.youtube.com/watch?v=VUp-_PQRXts)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=xHybqTaTpLI">Όμορφο που 'ναι να σε συλλογιέμαι</a>
 
-[Όμορφο που 'ναι να σε συλλογιέμαι](https://www.youtube.com/watch?v=xHybqTaTpLI)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=hde4sliKC6I">Ταξιδεύοντας</a>
 
-[Ταξιδεύοντας](https://www.youtube.com/watch?v=hde4sliKC6I)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=m1Xyl_dB7kg">Ο άνεμος κυλάει</a>
 
-[Ο άνεμος κυλάει](https://www.youtube.com/watch?v=m1Xyl_dB7kg)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=8BXiPUwZ0Ow">Νανούρισμα</a>
 
-[Νανούρισμα](https://www.youtube.com/watch?v=8BXiPUwZ0Ow)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=3F_OmMribYo">Να μη λυγάς</a>
 
-[Να μη λυγάς](https://www.youtube.com/watch?v=3F_OmMribYo)
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=FLaDeM8i1G8">Αυτό είναι</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=lZmXvl7Ifdg">Ένα κρεβάτι εκστρατείας</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=u2x4EJ0iYOE">Κατά τις λάμψεις πέρα</a>
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=-7_kvrF2ojY">Κλαίουσες ιτιές</a>
 
 ![σχήμα]({{ site.url }}/assets/nazim.png) 
